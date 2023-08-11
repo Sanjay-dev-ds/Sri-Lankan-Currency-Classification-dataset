@@ -25,6 +25,7 @@ If you find this dataset valuable for your work, please consider citing the repo
 }
 ```
 
-License
+## License
+
 The Sri Lankan Currency Detection Dataset is provided under the MIT License, allowing you to use, modify, and distribute the dataset for your own research and projects.
 We hope that this dataset accelerates innovation in currency detection and contributes to the advancement of computer vision technology in real-world applications. Happy coding!
