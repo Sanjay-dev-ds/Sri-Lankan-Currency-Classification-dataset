@@ -7,7 +7,12 @@ We believe that this open-source dataset will serve as a valuable resource for a
 
 ## Contents
 /zip: This zip directory contains the dataset images categorized by different currency denominations.
+
 /zip/20_F: Here, you can find 20 Rs Front side currency notes in the images.
+
+
+## Citation
+If you find this dataset valuable for your work, please consider citing the repository in your research papers or projects. Your support helps us maintain and improve the dataset.
 
 ```
 @misc{sri-lankan-currency-dataset,
