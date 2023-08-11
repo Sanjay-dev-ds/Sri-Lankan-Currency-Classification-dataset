@@ -9,7 +9,7 @@ We believe that this open-source dataset will serve as a valuable resource for a
 /zip: This zip directory contains the dataset images categorized by different currency denominations.
 /zip/20_F: Here, you can find 20 Rs Front side currency notes in the images.
 
-
+```
 @misc{sri-lankan-currency-dataset,
   author = {Sanjay Jayakumar},
   title = {Sri Lankan Currency Detection Dataset},
@@ -18,8 +18,8 @@ We believe that this open-source dataset will serve as a valuable resource for a
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Sanjay-dev-ds/SriLankan-Currency-Classification-dataset}},
 }
+```
 
 License
 The Sri Lankan Currency Detection Dataset is provided under the MIT License, allowing you to use, modify, and distribute the dataset for your own research and projects.
-
 We hope that this dataset accelerates innovation in currency detection and contributes to the advancement of computer vision technology in real-world applications. Happy coding!
